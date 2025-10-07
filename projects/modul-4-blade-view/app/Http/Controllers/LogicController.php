@@ -14,7 +14,7 @@ class LogicController extends Controller
         ['name' => 'Thariq', 'role' => 'editor'],
         ['name' => 'Ellian', 'role' => 'subscriber'],
     ];
-    $products = []; // Simulasi array kosong untuk @forelse
+    $products = []; 
     $profile = [
         'name' => 'Thariq',
         'email' => 'thariq@ilmudata.id'
